@@ -1,6 +1,9 @@
-
+* finished boolean section
+* added side plate, screws, cylinders
+* relative axis snapping
 
 + continue on ghostbuster trap demo
 + complete cord section (all the way up to topology)
 + vim tutor
 + vmux install
++ C++ or Python based OpenCV
