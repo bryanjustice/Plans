@@ -5,3 +5,5 @@ Introduction
 To be added here
 
 ## Grepping instructions for my .plan files
+
+## Documentation of my workflows
